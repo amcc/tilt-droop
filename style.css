@@ -8,15 +8,15 @@ html,
 body {
   margin: 0;
   padding: 10;
-  font-family: "Droop";
+  font-family: "Droop", Helvetica, sans-serif;
   font-size: 5vw;
-  background: #000;
-  color: #fff;
+  background: #fff;
+  color: #000;
   text-transform: uppercase;
 }
 
 a {
-  color: #fff;
+  color: #000;
 }
 
 canvas {
@@ -47,7 +47,7 @@ section {
   background: transparent;
   border: 0px solid;
   font-size: 5.1em;
-  color: #fff;
+  color: #000;
 }
 
 #font-info {
